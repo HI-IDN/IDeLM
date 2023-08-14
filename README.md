@@ -1,2 +1,3 @@
 # IDeLM
-Intelligent Decision Learning Models
+Intelligent Decision Learning Models (IDeLM) collaboration repository. 
+
